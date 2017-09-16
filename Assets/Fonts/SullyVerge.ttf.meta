@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a71f9894746ab70498d5d3537e35e5ee
+timeCreated: 1491411851
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SullyVerge
+  fontNames:
+  - SullyVerge
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

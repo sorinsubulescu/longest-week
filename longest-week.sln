@@ -1,8 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
+=======
+# Visual Studio 2015
+>>>>>>> mainmenu
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-week.CSharp", "longest-week.CSharp.csproj", "{DD3E8D71-ACC4-E96D-51B7-883FFC00D899}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-week.CSharp.Plugins", "longest-week.CSharp.Plugins.csproj", "{667EE1D5-E251-F269-9CA3-C5674662D88E}"
