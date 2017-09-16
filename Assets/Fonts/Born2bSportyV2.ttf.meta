@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c3a5adacdc9827642b363df7a2bf19e5
+timeCreated: 1491411851
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Born2bSportyV2
+  fontNames:
+  - Born2bSportyV2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a4ae8c69913b2eb4a83e52103692ddcc
+timeCreated: 1491411850
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fewture
+  fontNames:
+  - Fewture
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
